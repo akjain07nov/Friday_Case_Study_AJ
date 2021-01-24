@@ -6,6 +6,7 @@ print("n String to Street and House Number n")
 
 ## Function to re-join the string
 def list_to_str(list):
+    lts=" ".join(list)
     return lts
     
 ## Function to convert string to address
